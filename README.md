@@ -1,1 +1,1 @@
-# SuperStore projecr
+# SuperStore project
